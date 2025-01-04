@@ -1,5 +1,4 @@
 use std::env;
-use std::f64::consts::{PI, E};
 
 fn gravitational_acceleration(altitude: f64) -> f64 {
     let earth_radius = 6_371_000.0; 

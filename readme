@@ -3,5 +3,5 @@ Based on formulas from https://en.wikipedia.org/wiki/Pendulum
 
 For the values see src/lib.rs:20
 
-Compile using cargo and run:
-./target/debug/pendulum 0.4 2.0 1.5 500.0 0.02 0.5 1.0 6.28 293.15 0.01 10.0
+Run with:
+cargo run 0.4 2.0 1.5 500.0 0.02 0.5 1.0 6.28 293.15 0.01 10.0
